@@ -1,5 +1,8 @@
 # Identifying Residue-Level BPA Crosslinks
 Here we use search results from Kojak and PeptideProphet in the Trans-Proteomic Pipeline to identify and visualize residue-level BPA crosslinks.
+## Citation
+Research using this software should cite:  
+Ulmer, L. D.; Canzani, C.; Woods, C. N.; Stone, N. L.; Janowksa, M. K.; Klevit, R. E.; Bush, M. F. “Identifying Site-Specific Crosslinks Originating from a Genetically Incorporated, Photoreactive Amino Acid.”
 ## Trans-Proteomic Pipeline Tools Used
 For more information on the Trans-Proteomic Pipeline tools used see http://www.tppms.org/
 ## Files
